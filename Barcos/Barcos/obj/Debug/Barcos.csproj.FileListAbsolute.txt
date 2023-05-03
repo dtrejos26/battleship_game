@@ -1,0 +1,28 @@
+C:\Users\Danny\documents\visual studio 2015\Projects\Barcos\Barcos\bin\Debug\Barcos.exe.config
+C:\Users\Danny\documents\visual studio 2015\Projects\Barcos\Barcos\bin\Debug\Barcos.exe
+C:\Users\Danny\documents\visual studio 2015\Projects\Barcos\Barcos\bin\Debug\Barcos.pdb
+C:\Users\Danny\documents\visual studio 2015\Projects\Barcos\Barcos\bin\Debug\Interop.WMPLib.dll
+C:\Users\Danny\documents\visual studio 2015\Projects\Barcos\Barcos\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Danny\documents\visual studio 2015\Projects\Barcos\Barcos\obj\Debug\Interop.WMPLib.dll
+C:\Users\Danny\documents\visual studio 2015\Projects\Barcos\Barcos\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Danny\documents\visual studio 2015\Projects\Barcos\Barcos\obj\Debug\Barcos.csproj.ResolveComReference.cache
+C:\Users\Danny\documents\visual studio 2015\Projects\Barcos\Barcos\obj\Debug\Barcos.Properties.Resources.resources
+C:\Users\Danny\documents\visual studio 2015\Projects\Barcos\Barcos\obj\Debug\Barcos.csproj.GenerateResource.Cache
+C:\Users\Danny\documents\visual studio 2015\Projects\Barcos\Barcos\obj\Debug\Barcos.exe
+C:\Users\Danny\documents\visual studio 2015\Projects\Barcos\Barcos\obj\Debug\Barcos.pdb
+C:\Users\Danny\documents\visual studio 2015\Projects\Barcos\Barcos\obj\Debug\Barcos.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Documents\Visual Studio 2015\Projects\Barcos\Barcos\obj\Debug\Barcos.FormJuego.resources
+E:\Progra 4\Barcos\Barcos\bin\Debug\Barcos.exe.config
+E:\Progra 4\Barcos\Barcos\obj\Debug\Interop.WMPLib.dll
+E:\Progra 4\Barcos\Barcos\obj\Debug\AxInterop.WMPLib.dll
+E:\Progra 4\Barcos\Barcos\obj\Debug\Barcos.csproj.ResolveComReference.cache
+E:\Progra 4\Barcos\Barcos\obj\Debug\Barcos.exe
+E:\Progra 4\Barcos\Barcos\obj\Debug\Barcos.pdb
+E:\Progra 4\Barcos\Barcos\obj\Debug\Barcos.csprojResolveAssemblyReference.cache
+E:\Progra 4\Barcos\Barcos\obj\Debug\Barcos.FormJuego.resources
+E:\Progra 4\Barcos\Barcos\obj\Debug\Barcos.Properties.Resources.resources
+E:\Progra 4\Barcos\Barcos\obj\Debug\Barcos.csproj.GenerateResource.Cache
+E:\Progra 4\Barcos\Barcos\bin\Debug\Barcos.exe
+E:\Progra 4\Barcos\Barcos\bin\Debug\Barcos.pdb
+E:\Progra 4\Barcos\Barcos\bin\Debug\Interop.WMPLib.dll
+E:\Progra 4\Barcos\Barcos\bin\Debug\AxInterop.WMPLib.dll
